@@ -1,0 +1,1 @@
+# make table for easily retrievable weights in CPS
